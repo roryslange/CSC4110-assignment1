@@ -1,3 +1,3 @@
-#CSC4110-Assignment1
-##Rory Lange
-###HC9332
+# CSC4110-Assignment1
+## Rory Lange
+### HC9332
