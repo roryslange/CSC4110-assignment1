@@ -1,4 +1,5 @@
 //Simple C++ program to display "Hello World"
+//Author: Rory Lange <rorystrattonlange@gmail.com>
 
 //Header file for input and output functions
 #include <iostream>
